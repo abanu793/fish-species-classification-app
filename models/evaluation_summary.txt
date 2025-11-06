@@ -1,0 +1,21 @@
+Model: cnn_best_model.h5
+Accuracy: 98.40%
+                                  precision    recall  f1-score   support
+
+                     animal fish       0.98      1.00      0.99       520
+                animal fish bass       0.00      0.00      0.00        13
+   fish sea_food black_sea_sprat       0.99      1.00      1.00       298
+   fish sea_food gilt_head_bream       0.98      0.93      0.95       305
+   fish sea_food hourse_mackerel       1.00      1.00      1.00       286
+        fish sea_food red_mullet       1.00      1.00      1.00       291
+     fish sea_food red_sea_bream       0.97      0.97      0.97       273
+          fish sea_food sea_bass       0.95      0.98      0.97       327
+            fish sea_food shrimp       1.00      1.00      1.00       289
+fish sea_food striped_red_mullet       1.00      0.99      1.00       293
+             fish sea_food trout       0.98      1.00      0.99       292
+
+                        accuracy                           0.98      3187
+                       macro avg       0.90      0.90      0.90      3187
+                    weighted avg       0.98      0.98      0.98      3187
+
+============================================================
